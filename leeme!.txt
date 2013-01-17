@@ -1,0 +1,9 @@
+Nombre de la base de datos:
+softtou
+Nombre y usuario de Mysql:
+tradicionales: 
+usuario:	root
+password:	(vacio)
+Usuario por defecto Drupal:
+usuario:	admin	
+password:	admin
